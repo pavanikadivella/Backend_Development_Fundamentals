@@ -60,8 +60,7 @@ Lab-01/
 
 **Platform:** Render
 
-**Live URL:** To be updated after deployment is fixed.
-
+**Live URL:** https://backend-development-fundamentals-1-da7b.onrender.com/
 ## Screenshots
 
 ### 1. Server Running
