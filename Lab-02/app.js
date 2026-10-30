@@ -4,6 +4,10 @@ const { open } = require("sqlite");
 
 const app = express();
 app.use(express.json());
+app.get("/", (request, response) => {
+  response.send("Welcome to the Book Management API!");
+});
+
 
 const PORT = process.env.PORT || 3000;
 
