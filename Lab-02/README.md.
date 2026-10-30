@@ -25,22 +25,22 @@ This project demonstrates how to connect a SQLite database to a Node.js applicat
 
 ## Screenshots
 
-### Retrieve All Books
+### 1. Retrieve All Books
 ![Get All Books](./screenshots/get-all-books.png)
 
-### Retrieve a Single Book
+### 2. Retrieve a Single Book
 ![Get Single Book](./screenshots/get-single-book.png)
 
-### Create a Book
+### 3. Create a Book
 ![Create Book](./screenshots/post-book.png)
 
-### Update a Book
+### 4. Update a Book
 ![Update Book](./screenshots/put-book.png)
 
-### Delete a Book
+### 5. Delete a Book
 ![Delete Book](./screenshots/delete-book.png)
 
-### SQLite Database
+### 6. SQLite Database
 ![SQLite Database](./screenshots/sqlite-database.png)
 
 ## Result
