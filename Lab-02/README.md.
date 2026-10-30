@@ -1,0 +1,47 @@
+# Lab 2: SQLite Database and CRUD Routes
+
+## Student Details
+- **Name:** Pavani
+- **Section:** GenAI 2A
+- **Subject:** Backend Development Fundamentals
+
+## Aim
+To create a SQLite database and implement CRUD operations using Node.js and Express.js.
+
+## Technologies Used
+- Node.js
+- Express.js
+- SQLite
+- JavaScript
+
+## Project Description
+This project demonstrates how to connect a SQLite database to a Node.js application and perform CRUD operations on book records. The API supports creating, retrieving, updating, and deleting books.
+
+## How to Run
+1. Open the `Lab-02` folder in the terminal.
+2. Install dependencies using `npm install`.
+3. Start the server using `npm start`.
+4. Test the API using a browser or an API testing tool.
+
+## Screenshots
+
+### Retrieve All Books
+![Get All Books](./screenshots/get-all-books.png)
+
+### Retrieve a Single Book
+![Get Single Book](./screenshots/get-single-book.png)
+
+### Create a Book
+![Create Book](./screenshots/post-book.png)
+
+### Update a Book
+![Update Book](./screenshots/put-book.png)
+
+### Delete a Book
+![Delete Book](./screenshots/delete-book.png)
+
+### SQLite Database
+![SQLite Database](./screenshots/sqlite-database.png)
+
+## Result
+Successfully created a SQLite database and implemented CRUD routes using Node.js and Express.js.
