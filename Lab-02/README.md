@@ -13,6 +13,14 @@ To create a SQLite database and implement CRUD operations using Node.js and Expr
 - Express.js
 - SQLite
 - JavaScript
+## Live Deployment
+
+**Deployed Application:** https://backend-development-fundamentals-1-da7b.onrender.com/
+
+**Get All Books API:** https://backend-development-fundamentals-1-da7b.onrender.com/books/
+
+**Get Book by ID:** https://backend-development-fundamentals-1-da7b.onrender.com/books/1/
+
 
 ## Project Description
 This project demonstrates how to connect a SQLite database to a Node.js application and perform CRUD operations on book records. The API supports creating, retrieving, updating, and deleting books.
