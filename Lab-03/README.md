@@ -36,8 +36,7 @@ node app.js
 
 `http://localhost:3000`
 
-**Live URL:** Not deployed. The API was tested locally using Postman.
-
+**Live URL:** https://backend-development-fundamentals-1-r810.onrender.com/books
 ## 4. API Endpoints
 
 | Method | Endpoint | Description |
